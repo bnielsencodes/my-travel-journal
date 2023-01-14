@@ -1,4 +1,4 @@
-# Meme Generator - Scrimba React Course Project
+# My Travel Journal - Scrimba React Course Project
 
 ## Table of Contents
 
